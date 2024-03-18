@@ -46,7 +46,7 @@ input:focus {
       margin-bottom: 14px;
       font-family: "Lato", sans-serif;
   }
-  
+
 .cont_dark{
   background-color: #404066;
   box-shadow: 15px 15px 30px #232224;
@@ -80,8 +80,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0;
-    /* background-color: #2b2c41;*/
     background-color: white;
 }
 
